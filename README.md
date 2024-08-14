@@ -85,5 +85,5 @@ In this project I applied various classification models such as Logistic Regress
 ## Certificates
 
 - [Tableau Essential Training By Simplilearn](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/nitinTablue_certi.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
+- [Introduction to Data Analysis](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/nitinDA_certi.pdf)
 
