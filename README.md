@@ -4,12 +4,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [nitinlingwal91@gmail.com](nitinlingwal91@gmail.com)
 - **LinkedIn**: [linkedin.com/nitin-lingwal](https://www.linkedin.com/in/nitin-lingwal/)
 
-## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
-
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
