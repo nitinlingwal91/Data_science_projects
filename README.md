@@ -80,7 +80,7 @@ In this project I applied various classification models such as Logistic Regress
 
 - [Tableau Essential Training By Simplilearn](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/nitinTablue_certi.pdf)
 - [Buisness Analytics with Excel By Simplilearn](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/excelcerti.pdf)
-- [SQL(basic) By hackerran](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/sql_basic%20certificate.pdf)
+- [Complete Machine Learning, NLP Bootcamp MLops & Deployment by Udemy](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/sql_basic%20certificate.pdf)
 - [Introduction to Data Analysis](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/nitinDA_certi.pdf)
 - [Pandas by Kaggle](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/Nitin%20Lingwal%20-%20Pandas.png)
 - [Product Development Workshop by industry academia community](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/product_development.png)
