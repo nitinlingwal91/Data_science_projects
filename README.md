@@ -18,7 +18,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src=""> **[Data Warehouse and Analytics Project](https://github.com/nitinlingwal91/SQL-Data-Warehouse-Project)**
+<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/SQL-Data-Warehouse-Project/blob/main/docs/modern-data-center-providing-cloud-services-enabling-businesses-access-computing-resources-storage-demand-internet-server-room-infrastructure-3d-render-animation.jpg"> **[Data Warehouse and Analytics Project](https://github.com/nitinlingwal91/SQL-Data-Warehouse-Project)**
 
 This project we find comprehensive data warehousing and analytics solution (Using Medallion Architecture Bronze, Silver, and Gold layers), from building a data warehouse to generating actionable insights.
 
