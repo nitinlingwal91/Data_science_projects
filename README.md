@@ -20,8 +20,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Data Warehouse and Analytics Project](https://github.com/nitinlingwal91/SQL-Data-Warehouse-Project)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
-
+This project we find comprehensive data warehousing and analytics solution (Using Medallion Architecture Bronze, Silver, and Gold layers), from building a data warehouse to generating actionable insights.
 
 - ### Challenges
     - [SQL Challenges](https://github.com/nitinlingwal91/SQL/tree/main/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
