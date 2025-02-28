@@ -33,7 +33,7 @@ This project we find comprehensive data warehousing and analytics solution (Usin
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Time Series Analysis, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Methodologies**: Machine Learning, Time Series Analysis, Statistics, A/B Testing and Experimentation Design, Big Data Analytics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL,
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
