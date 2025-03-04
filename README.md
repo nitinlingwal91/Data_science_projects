@@ -21,8 +21,8 @@ This project we find comprehensive data warehousing and analytics solution (Usin
 #
 
 - ### Challenges
-- [SQL Challenges](https://github.com/nitinlingwal91/SQL/tree/main/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-- [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
+- [SQL Challenges](https://github.com/nitinlingwal91/SQL/tree/main/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcodeetc.) solved by me.
+- [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank etc.) solved by me.
     
 - ### Ranking Algorithms
 - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
