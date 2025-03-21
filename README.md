@@ -46,3 +46,5 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 - [Pandas by Kaggle](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/Nitin%20Lingwal%20-%20Pandas.png)
 - [Product Development Workshop by industry academia community](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/product_development.png)
 
+### Follow me on [![LinkedIn](https://www.linkedin.com/in/nitinlingwal)]
+
