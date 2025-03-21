@@ -78,7 +78,7 @@ The application will use conversational AI to provide responses based on the con
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-#### Follow me on [![LinkedIn](https://www.linkedin.com/in/nitinlingwal)
+### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinlingwal)
 
 ---
 
