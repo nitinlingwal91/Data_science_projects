@@ -20,7 +20,7 @@ This project we find comprehensive data warehousing and analytics solution (Usin
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/Data_science_projects/blob/main/multipdf_chatai_agent/img/Robot.jpg"> **[Multi-PDF -s ChatAi Agent](https://github.com/nitinlingwal91/Data_science_projects/tree/main/multipdf_chatai_agent)**
+<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/Data_science_projects/blob/main/multipdf_chatai_agent/img/Robot.jpg"> **[Multi-PDF -s ChatAi Agent](https://github.com/nitinlingwal91/Multi-PDF-s-AI-Agent)**
 
 The Multi-PDF's Chat Agent is a Streamlit-based web application designed to facilitate interactive conversations with a chatbot. The app allows users to upload multiple PDF documents, extract text information from them, and train a chatbot using this extracted content. Users can then engage in real-time conversations with the chatbot.
 
