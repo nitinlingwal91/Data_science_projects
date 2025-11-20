@@ -24,6 +24,11 @@ This project we find comprehensive data warehousing and analytics solution (Usin
 
 The Multi-PDF's Chat Agent is a Streamlit-based web application designed to facilitate interactive conversations with a chatbot. The app allows users to upload multiple PDF documents, extract text information from them, and train a chatbot using this extracted content. Users can then engage in real-time conversations with the chatbot.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/Data_science_projects/blob/main/multipdf_chatai_agent/img/Robot.jpg"> **[SplitEase Final Year Project](https://github.com/nitinlingwal91/SplitEase)**
+https://github.com/nitinlingwal91/SplitEase
+
 - ### Challenges
 - [SQL Challenges](https://github.com/nitinlingwal91/SQL/tree/main/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcodeetc.) solved by me.
 - [Data Science Challenges](https://github.com/nitinlingwal91/Data-Science-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank etc.) solved by me.
@@ -47,4 +52,5 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 - [Product Development Workshop by industry academia community](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/product_development.png)
 
 ### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinlingwal)
+
 
