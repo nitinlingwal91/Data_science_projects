@@ -26,7 +26,7 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/Data_science_projects/blob/main/multipdf_chatai_agent/img/Robot.jpg"> **[SplitEase Final Year Project](https://github.com/nitinlingwal91/SplitEase)**
+<img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/SplitEase/blob/main/media/images/ui-ux-representations-with-laptop.jpg"> **[SplitEase Final Year Project](https://github.com/nitinlingwal91/SplitEase)**
 
 SplitEase is a modern, Django-based web application designed to simplify expense sharing and settlement management among groups of people. Whether it's roommates sharing bills, friends traveling together, or colleagues managing group expenses, SplitEase offers an intuitive and real-time solution to keep track of who owes what.
 
@@ -55,6 +55,7 @@ SplitEase is a modern, Django-based web application designed to simplify expense
 - [Product Development Workshop by industry academia community](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/product_development.png)
 
 ### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinlingwal)
+
 
 
 
