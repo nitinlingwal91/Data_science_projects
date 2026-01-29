@@ -10,8 +10,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/nitinlingwal91/Lunar-Tech-AB-Testing/blob/main/images/dataset-cover.png"> **[Lunar Tech A/B Testing Project](https://github.com/nitinlingwal91/Lunar-Tech-AB-Testing)**
 
-This project demonstrates a complete A/B testing pipeline for Lunar Tech, an ed-tech platform conducting a conversion rate optimization experiment. The analysis covers:
-Experimental Design: Power analysis and sample size determination, Data Quality Validation: Sanity checks and exploratory data analysis, Statistical Analysis: Two-sample z-test for proportion hypothesis testing, Business Impact: ROI calculation and sensitivity analysis
+This project demonstrates a complete A/B testing pipeline for Lunar Tech, an ed-tech platform conducting a conversion rate optimization experiment.
 
 #
 
@@ -56,6 +55,7 @@ SplitEase is a modern, Django-based web application designed to simplify expense
 - [Product Development Workshop by industry academia community](https://github.com/nitinlingwal91/Data-Science-projects/blob/main/Certificates/product_development.png)
 
 ### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinlingwal)
+
 
 
 
